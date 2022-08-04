@@ -27,6 +27,7 @@ label/ 為遮罩圖與標註檔案，檔案類型為.png與.json。
 ## Notes  
 * 此資料集為郊區、山區道路俯視角空拍語意切割資料集的一部分，做為免費開放使用
 * 此資料集用於學術研究
+* 此資料集可以應用如[albumentations](https://github.com/albumentations-team/albumentations "link")進行影像擴增來加強訓練
 * 此資料集包含原始圖像、遮罩與標註檔案，原始影像檔案請參考：[repo](https://github.com/nccudrone/SMRAVVD "link")
 ## Download
 [link](http://140.119.164.183:5000/sharing/iwq6R7xNI "link")
