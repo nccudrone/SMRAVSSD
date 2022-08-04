@@ -1,4 +1,4 @@
-# SMRAVSSD：郊區、山區道路俯視角空拍影像語意切割資料集 (Suburban、Mountain Road Aerial View Senmantic Segmentation Dataset)
+# SMRAVSSD：郊區、山區道路俯視角空拍影像語意切割資料集 (Suburban、Mountain Road Aerial View Semantic Segmentation Dataset)
 
 ## Overview
 此資料集為台灣郊區、山區道路俯視角空拍語意切割資料集。  
